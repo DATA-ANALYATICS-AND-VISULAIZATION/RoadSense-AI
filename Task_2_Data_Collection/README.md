@@ -1,7 +1,3 @@
-# Task 2 – Data Collection
-
-This folder contains the collected road-accident dataset and its documentation.
-
-## Files
-- Data Collection Report (.docx)
-- Road Accident Dataset 2022 (.csv)
+Task_2_Data_Collection/
+├── README.md
+└── RoadSense_AI_Road_Accident_Data_2022_Dataset.csv
